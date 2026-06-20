@@ -7,6 +7,7 @@
 - Current known assets:
   - `outputs/golf-series-basic-copy.md`
   - `outputs/golf-series-advanced-copy.md`
+  - `outputs/golf-series-short-game-shotlist.md`
   - `outputs/golf-xiaohei-series-3x4/01-grip-connection.png`
   - `outputs/golf-xiaohei-series-3x4/02-setup-balance.png`
   - `outputs/golf-xiaohei-series-3x4/03-clubface-startline.png`
@@ -38,3 +39,4 @@
 - Keep one image to one teaching point.
 - Preserve the white-background, sparse-label, non-PPT style.
 - Add new outputs without replacing existing images unless explicitly requested.
+- The current next planning artifact is `outputs/golf-series-short-game-shotlist.md`.
